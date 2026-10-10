@@ -91,20 +91,20 @@
 
 <div align="center">
 
- <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=OnikTechHub&bg_color=0d1f1f&hide_border=true&include_all_commits=false&count_private=false&layout=compact" height="165" alt="Top Langs" />
+ <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=devnaymul247&bg_color=0d1f1f&hide_border=true&include_all_commits=false&count_private=false&layout=compact" height="165" alt="Top Langs" />
 
 <br/><br/>
-<img height="165" alt="GitHub Stats" src="https://github-readme-stats.shion.dev/api?username=OnikTechHub&show_icons=true&count_private=true&hide_border=true&bg_color=0d1f1f&title_color=D6BD98&icon_color=677D6A&text_color=a89878" />
+<img height="165" alt="GitHub Stats" src="https://github-readme-stats.shion.dev/api?username=devnaymul247&show_icons=true&count_private=true&hide_border=true&bg_color=0d1f1f&title_color=D6BD98&icon_color=677D6A&text_color=a89878" />
 
 <br/><br/>
 
-<img height="165" alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=OnikTechHub&hide_border=true&background=0d1f1f&stroke=40534C&ring=677D6A&fire=D6BD98&currStreakLabel=D6BD98&sideLabels=a89878&dates=677D6A&sideNums=D6BD98&currStreakNum=ffffff" />
+<img height="165" alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=devnaymul247&hide_border=true&background=0d1f1f&stroke=40534C&ring=677D6A&fire=D6BD98&currStreakLabel=D6BD98&sideLabels=a89878&dates=677D6A&sideNums=D6BD98&currStreakNum=ffffff" />
 
 <br/><br/>
 
   <!-- 📈 WORKING GITHUB ACTIVITY GRAPH -->
-  <a href="https://github.com/OnikTechHub">
-    <img src="https://github-activity-graph.vercel.app/graph?username=OnikTechHub&theme=react-dark&hide_border=true&area=true" width="100%" alt="Activity Graph" />
+  <a href="https://github.com/devnymul247">
+    <img src="https://github-activity-graph.vercel.app/graph?username=devnaymul247&theme=react-dark&hide_border=true&area=true" width="100%" alt="Activity Graph" />
   </a>
 </div>
 
@@ -136,11 +136,11 @@
 
   <h3>🤝 Available for New Opportunities</h3>
   <p>
-   <a href="https://fiverr.com](https://www.fiverr.com/dev_naymul247">
+   <a href="https://www.fiverr.com/dev_naymul247" target="_blank">
       <img src="https://img.shields.io/badge/Fiverr_Profile-0D1F18?style=flat-square&logo=fiverr&logoColor=3CD070" alt="Full-Time Roles" />
    </a>
     &nbsp;&bull;&nbsp;
-    <a href="upwork.com](https://www.upwork.com/freelancers/devnaymul247">
+    <a href="https://www.upwork.com/freelancers/devnaymul247" target="_blank">
       <img src="https://img.shields.io/badge/Freelance_Projects-0D1F18?style=flat-square&logo=upwork&logoColor=3CD070" alt="Freelance Projects" />
     </a>
     &nbsp;&bull;&nbsp;
